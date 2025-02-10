@@ -67,6 +67,8 @@ setup(
         "transformers>=4.36.1",
         "huggingface_hub",
         "termcolor",
+        "datasets",
+        "lm-eval",
         #"bitblas",
         #"timm",
     ],
